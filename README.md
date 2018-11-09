@@ -35,9 +35,9 @@ Our solution will levegerage the following Cisco technologies
 ## Team Members
 
 
-* Paul Wilson <paulswil@cisco.com> - Federal Civilian
-* Luis Garcia <luigarc2@cisco.com> - Federal Civilian
-* Chris Mader <chmader@cisco.com> - Enterprise
+* Paul Wilson <paulswil@cisco.com> - Public Sector
+* Luis Garcia <luigarc2@cisco.com> - Public Sector
+* Chris Mader <chmader@cisco.com> - Global Enterprise Segment
 
 
 ## Solution Components
